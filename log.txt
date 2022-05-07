@@ -1,19 +1,19 @@
-Sat May  7 09:45:15 2022
+Sat May  7 11:56:03 2022
 Windows-10-10.0.19041
 Ren'Py 7.4.11.2266
  
 
-Bootstrap to the start of init.init took 0.13s
-Early init took 0.02s
-Loader init took 0.10s
-Loading error handling took 0.10s
-Loading script took 1.30s
-Loading save slot metadata. took 0.19s
+Bootstrap to the start of init.init took 0.16s
+Early init took 0.00s
+Loader init took 0.04s
+Loading error handling took 0.04s
+Loading script took 0.25s
+Loading save slot metadata. took 0.03s
 Loading persistent took 0.00s
 Importing _renpysteam: ImportError('No module named _renpysteam',)
 Set script version to: (7, 4, 11)
-Running init code took 0.35s
-Loading analysis data took 0.04s
+Running init code took 0.12s
+Loading analysis data took 0.03s
 Analyze and compile ATL took 0.00s
 Index archives took 0.00s
 Dump and make backups. took 0.00s
@@ -23,19 +23,19 @@ Initial gc. took 0.02s
 DPI scale factor: 1.250000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Creating interface object took 0.64s
+Creating interface object took 0.55s
 Cleaning stores took 0.00s
-Init translation took 0.11s
+Init translation took 0.04s
 Build styles took 0.01s
-Load screen analysis took 0.04s
+Load screen analysis took 0.03s
 Analyze screens took 0.00s
 Save screen analysis took 0.00s
-Prepare screens took 0.10s
+Prepare screens took 0.07s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.00s
 Running _start took 0.00s
 Performance test:
-Interface start took 0.38s
+Interface start took 0.23s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1920, 1080)
@@ -45,5 +45,5 @@ Vendor: 'NVIDIA Corporation'
 Renderer: 'NVIDIA GeForce GTX 1050/PCIe/SSE2'
 Version: '4.6.0 NVIDIA 511.65'
 Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1739, 978) drawable=(1739, 978)
+Screen sizes: virtual=(1280, 720) physical=(1738, 978) drawable=(1738, 978)
 Maximum texture size: 4096x4096
